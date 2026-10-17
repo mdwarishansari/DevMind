@@ -146,7 +146,6 @@ Read [sections 3 to 9](#3-the-problem), then skim [section 10](#10-system-archit
 | **Organization** | [Warish-Labs](https://github.com/Warish-Labs) · [warishlabs.in](https://warishlabs.in) |
 | **Documentation index** | [docs/00-documentation-index.md](https://github.com/Warish-Labs/DevMind/blob/main/docs/00-documentation-index.md) |
 | **Setup guide** | [docs/SETUP-GUIDE.md](https://github.com/Warish-Labs/DevMind/blob/main/docs/SETUP-GUIDE.md) |
-| **Master build prompt** | [docs/ANTIGRAVITY_PROMPT.md](https://github.com/Warish-Labs/DevMind/blob/main/docs/ANTIGRAVITY_PROMPT.md) |
 | **Brand guide** | [brand/BRAND-GUIDE.md](https://github.com/Warish-Labs/DevMind/blob/main/brand/BRAND-GUIDE.md) |
 | **Planned domains** | `devmind.warishlabs.in` (site) · `api.devmind.warishlabs.in` (API) |
 
@@ -1889,7 +1888,7 @@ Rules: do not invent features, results, benchmarks or integrations; describe des
 | Organization | [github.com/Warish-Labs](https://github.com/Warish-Labs) |
 | Website | [warishlabs.in](https://warishlabs.in) |
 | This project | [Live](https://devmind.warishlabs.in/) · [Source](https://github.com/Warish-Labs/DevMind) · [Showcase](https://github.com/mdwarishansari/DevMind) |
-| Related projects | [ForgeFlow-AI](https://github.com/Warish-Labs/ForgeFlow-AI) · [WarishLabs website](https://github.com/Warish-Labs/warishlabs-website) |
+| Related projects | [ForgeFlow-AI](https://github.com/Warish-Labs/ForgeFlow-AI) |
 
 **License.** DevMind is currently **unlicensed (all rights reserved)**. A formal license will be chosen before a public 1.0 (tracked as an open decision). This showcase README and its animated banners are part of the project.
 
